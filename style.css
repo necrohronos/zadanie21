@@ -1,0 +1,11 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    color: white;
+    padding: 2px;
+}
+.color-alt {
+    background-color: cornflowerblue;
+}
+.opacity {opacity: 0.4}
